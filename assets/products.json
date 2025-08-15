@@ -1,0 +1,1082 @@
+[
+  {
+    "id": 1,
+    "name": "ASUS ROG Zephyrus G16 (2024)",
+    "brand": "ASUS",
+    "price": 2499.99,
+    "image": "assets/images/laptops/ASUS ROG Zephyrus G16 (2024).png",
+    "category": "laptop",
+    "stock": 8,
+    "rating": 4.8,
+    "description": "Ultra-slim gaming laptop with Nebula Display and Intel Core Ultra 9 processor.",
+    "specs": {
+      "cpu": "Intel Core Ultra 9 185H",
+      "gpu": "NVIDIA RTX 4070",
+      "ram": "32GB LPDDR5X",
+      "storage": "2TB PCIe 4.0 SSD",
+      "screen": "16\" OLED 2.5K 240Hz"
+    }
+  },
+  {
+    "id": 2,
+    "name": "ASUS ZenBook Pro 16X OLED",
+    "brand": "ASUS",
+    "price": 2999.99,
+    "image": "assets/images/laptops/ASUS ZenBook Pro 16X OLED.png",
+    "category": "laptop",
+    "stock": 5,
+    "rating": 4.7,
+    "description": "Creator laptop with ASUS Dial, 16:10 OLED display, and haptic touchpad.",
+    "specs": {
+      "cpu": "Intel Core i9-13980HX",
+      "gpu": "NVIDIA RTX 4080",
+      "ram": "64GB DDR5",
+      "storage": "4TB PCIe 4.0 SSD",
+      "screen": "16\" 3.2K OLED Touch 120Hz"
+    }
+  },
+  {
+    "id": 3,
+    "name": "ASUS ROG Strix Scar 18",
+    "brand": "ASUS",
+    "price": 3499.99,
+    "image": "assets/images/laptops/ASUS ROG Strix Scar 18.png",
+    "category": "laptop",
+    "stock": 6,
+    "rating": 4.9,
+    "description": "Flagship gaming laptop with 18-inch Mini-LED display and per-key RGB lighting.",
+    "specs": {
+      "cpu": "Intel Core i9-14900HX",
+      "gpu": "NVIDIA RTX 4090",
+      "ram": "64GB DDR5",
+      "storage": "4TB RAID 0 SSD",
+      "screen": "18\" Mini-LED 2.5K 240Hz"
+    }
+  },
+  {
+    "id": 4,
+    "name": "ASUS TUF Gaming A17",
+    "brand": "ASUS",
+    "price": 1299.99,
+    "image": "assets/images/laptops/ASUS TUF Gaming A17.png",
+    "category": "laptop",
+    "stock": 15,
+    "rating": 4.3,
+    "description": "Military-grade durable gaming laptop with AMD Ryzen 7 and MUX Switch.",
+    "specs": {
+      "cpu": "AMD Ryzen 7 7735HS",
+      "gpu": "NVIDIA RTX 4060",
+      "ram": "16GB DDR5",
+      "storage": "1TB PCIe 4.0 SSD",
+      "screen": "17.3\" FHD 144Hz"
+    }
+  },
+  {
+    "id": 5,
+    "name": "ASUS ProArt Studiobook 16",
+    "brand": "ASUS",
+    "price": 3299.99,
+    "image": "assets/images/laptops/ASUS ProArt Studiobook 16.png",
+    "category": "laptop",
+    "stock": 4,
+    "rating": 4.9,
+    "description": "Workstation for creators with ASUS Dial, Pantone validation, and NVIDIA Studio drivers.",
+    "specs": {
+      "cpu": "Intel Core i9-13900H",
+      "gpu": "NVIDIA RTX 5000 Ada",
+      "ram": "64GB DDR5",
+      "storage": "4TB SSD",
+      "screen": "16\" 4K OLED 60Hz"
+    }
+  },
+  {
+    "id": 6,
+    "name": "ASUS ROG Flow X13",
+    "brand": "ASUS",
+    "price": 1999.99,
+    "image": "assets/images/laptops/ASUS ROG Flow X13.png",
+    "category": "laptop",
+    "stock": 10,
+    "rating": 4.6,
+    "description": "2-in-1 gaming convertible with 360° hinge and XG Mobile compatibility.",
+    "specs": {
+      "cpu": "AMD Ryzen 9 7940HS",
+      "gpu": "NVIDIA RTX 4060",
+      "ram": "32GB LPDDR5",
+      "storage": "1TB PCIe 4.0 SSD",
+      "screen": "13.4\" QHD+ 165Hz Touch"
+    }
+  },
+  {
+    "id": 7,
+    "name": "ASUS Vivobook Pro 15 OLED",
+    "brand": "ASUS",
+    "price": 1199.99,
+    "image": "assets/images/laptops/ASUS Vivobook Pro 15 OLED.png",
+    "category": "laptop",
+    "stock": 18,
+    "rating": 4.4,
+    "description": "Content creation laptop with color-accurate OLED display and ASUS IceCool Plus.",
+    "specs": {
+      "cpu": "Intel Core i7-13650HX",
+      "gpu": "NVIDIA RTX 4050",
+      "ram": "16GB DDR5",
+      "storage": "1TB PCIe 4.0 SSD",
+      "screen": "15.6\" OLED 2.8K 120Hz"
+    }
+  },
+  {
+    "id": 8,
+    "name": "ASUS ROG Zephyrus M16",
+    "brand": "ASUS",
+    "price": 2799.99,
+    "image": "assets/images/laptops/ASUS ROG Zephyrus M16.png",
+    "category": "laptop",
+    "stock": 7,
+    "rating": 4.8,
+    "description": "Sleek performance laptop with AniMe Matrix LED lid and Dolby Atmos.",
+    "specs": {
+      "cpu": "Intel Core i9-13900H",
+      "gpu": "NVIDIA RTX 4080",
+      "ram": "32GB DDR5",
+      "storage": "2TB PCIe 4.0 SSD",
+      "screen": "16\" Mini-LED 2.5K 240Hz"
+    }
+  },
+  {
+    "id": 9,
+    "name": "ASUS ExpertBook B9",
+    "brand": "ASUS",
+    "price": 1899.99,
+    "image": "assets/images/laptops/ASUS ExpertBook B9.png",
+    "category": "laptop",
+    "stock": 12,
+    "rating": 4.5,
+    "description": "World's lightest business laptop with MIL-STD durability and AI noise cancellation.",
+    "specs": {
+      "cpu": "Intel Core i7-1365U",
+      "gpu": "Intel Iris Xe",
+      "ram": "32GB LPDDR5",
+      "storage": "2TB PCIe 4.0 SSD",
+      "screen": "14\" FHD OLED"
+    }
+  },
+  {
+    "id": 10,
+    "name": "ASUS TUF Dash F15",
+    "brand": "ASUS",
+    "price": 1499.99,
+    "image": "assets/images/laptops/ASUS TUF Dash F15.png",
+    "category": "laptop",
+    "stock": 14,
+    "rating": 4.3,
+    "description": "Slim gaming laptop with Thunderbolt 4 and 90Wh battery.",
+    "specs": {
+      "cpu": "Intel Core i7-13650HX",
+      "gpu": "NVIDIA RTX 4070",
+      "ram": "16GB DDR5",
+      "storage": "1TB PCIe 4.0 SSD",
+      "screen": "15.6\" QHD 165Hz"
+    }
+  },
+  {
+    "id": 11,
+    "name": "ASUS Zenbook S 13 OLED",
+    "brand": "ASUS",
+    "price": 1399.99,
+    "image": "assets/images/laptops/ASUS Zenbook S 13 OLED.png",
+    "category": "laptop",
+    "stock": 20,
+    "rating": 4.6,
+    "description": "World's slimmest OLED laptop with 13th Gen Intel and NumberPad 2.0.",
+    "specs": {
+      "cpu": "Intel Core i7-1355U",
+      "gpu": "Intel Iris Xe",
+      "ram": "32GB LPDDR5",
+      "storage": "1TB PCIe 4.0 SSD",
+      "screen": "13.3\" 2.8K OLED"
+    }
+  },
+  {
+    "id": 12,
+    "name": "ASUS ROG Strix G17",
+    "brand": "ASUS",
+    "price": 1899.99,
+    "image": "assets/images/laptops/ASUS ROG Strix G17.png",
+    "category": "laptop",
+    "stock": 9,
+    "rating": 4.4,
+    "description": "AMD Advantage gaming laptop with Radeon graphics and liquid metal cooling.",
+    "specs": {
+      "cpu": "AMD Ryzen 9 7945HX",
+      "gpu": "AMD Radeon RX 7700S",
+      "ram": "32GB DDR5",
+      "storage": "2TB PCIe 4.0 SSD",
+      "screen": "17.3\" QHD 240Hz"
+    }
+  },
+  {
+    "id": 13,
+    "name": "ASUS Vivobook S 14 Flip",
+    "brand": "ASUS",
+    "price": 999.99,
+    "image": "assets/images/laptops/ASUS Vivobook S 14 Flip.png",
+    "category": "laptop",
+    "stock": 22,
+    "rating": 4.2,
+    "description": "2-in-1 convertible with 360° hinge and ASUS Pen support.",
+    "specs": {
+      "cpu": "Intel Core i5-1340P",
+      "gpu": "Intel Iris Xe",
+      "ram": "16GB LPDDR5",
+      "storage": "512GB PCIe 4.0 SSD",
+      "screen": "14\" OLED Touch"
+    }
+  },
+  {
+    "id": 14,
+    "name": "ASUS ProArt Studiobook Pro 16",
+    "brand": "ASUS",
+    "price": 3999.99,
+    "image": "assets/images/laptops/ASUS ProArt Studiobook Pro 16.png",
+    "category": "laptop",
+    "stock": 3,
+    "rating": 5.0,
+    "description": "Mobile workstation with dual fans, physical creative dial, and ISV certification.",
+    "specs": {
+      "cpu": "Intel Core i9-13950HX",
+      "gpu": "NVIDIA RTX 5000 Ada",
+      "ram": "128GB DDR5",
+      "storage": "8TB SSD RAID",
+      "screen": "16\" 4K OLED 60Hz"
+    }
+  },
+  {
+    "id": 15,
+    "name": "ASUS ROG Zephyrus Duo 16",
+    "brand": "ASUS",
+    "price": 4499.99,
+    "image": "assets/images/laptops/ASUS ROG Zephyrus Duo 16.png",
+    "category": "laptop",
+    "stock": 2,
+    "rating": 4.9,
+    "description": "Dual-screen gaming laptop with secondary 4K touch display.",
+    "specs": {
+      "cpu": "AMD Ryzen 9 7945HX",
+      "gpu": "NVIDIA RTX 4090",
+      "ram": "64GB DDR5",
+      "storage": "4TB PCIe 4.0 SSD",
+      "screen": "16\" Mini-LED + 14\" 4K Touch"
+    }
+  },
+  {
+    "id": 16,
+    "name": "ASUS Zenbook Duo (2024)",
+    "brand": "ASUS",
+    "price": 1699.99,
+    "image": "assets/images/laptops/ASUS Zenbook Duo (2024).png",
+    "category": "laptop",
+    "stock": 11,
+    "rating": 4.7,
+    "description": "Dual-screen productivity laptop with ScreenXpert 3.0 and detachable keyboard.",
+    "specs": {
+      "cpu": "Intel Core i7-1355U",
+      "gpu": "Intel Iris Xe",
+      "ram": "32GB LPDDR5",
+      "storage": "2TB PCIe 4.0 SSD",
+      "screen": "Dual 14\" FHD OLED"
+    }
+  },
+  {
+    "id": 17,
+    "name": "ASUS TUF Gaming F15",
+    "brand": "ASUS",
+    "price": 1199.99,
+    "image": "assets/images/laptops/ASUS TUF Gaming F15.png",
+    "category": "laptop",
+    "stock": 16,
+    "rating": 4.3,
+    "description": "Value gaming laptop with self-cleaning cooling and up to 144Hz display.",
+    "specs": {
+      "cpu": "Intel Core i5-13450HX",
+      "gpu": "NVIDIA RTX 4050",
+      "ram": "16GB DDR4",
+      "storage": "512GB PCIe 3.0 SSD",
+      "screen": "15.6\" FHD 144Hz"
+    }
+  },
+  {
+    "id": 18,
+    "name": "ASUS ROG Flow Z13",
+    "brand": "ASUS",
+    "price": 2199.99,
+    "image": "assets/images/laptops/ASUS ROG Flow Z13.png",
+    "category": "laptop",
+    "stock": 7,
+    "rating": 4.6,
+    "description": "Detachable gaming tablet with kickstand and XG Mobile interface.",
+    "specs": {
+      "cpu": "Intel Core i9-13900H",
+      "gpu": "NVIDIA RTX 4070",
+      "ram": "32GB LPDDR5",
+      "storage": "1TB PCIe 4.0 SSD",
+      "screen": "13.4\" 4K 120Hz Touch"
+    }
+  },
+  {
+    "id": 19,
+    "name": "ASUS Vivobook Go 15",
+    "brand": "ASUS",
+    "price": 699.99,
+    "image": "assets/images/laptops/ASUS Vivobook Go 15.png",
+    "category": "laptop",
+    "stock": 30,
+    "rating": 4.0,
+    "description": "Budget laptop with military-grade durability and 180° lay-flat hinge.",
+    "specs": {
+      "cpu": "AMD Ryzen 5 7520U",
+      "gpu": "AMD Radeon 610M",
+      "ram": "8GB LPDDR5",
+      "storage": "512GB PCIe 3.0 SSD",
+      "screen": "15.6\" FHD"
+    }
+  },
+  {
+    "id": 20,
+    "name": "ASUS Zenbook 14X OLED (2024)",
+    "brand": "ASUS",
+    "price": 1499.99,
+    "image": "assets/images/laptops/ASUS Zenbook 14X OLED (2024).png",
+    "category": "laptop",
+    "stock": 18,
+    "rating": 4.7,
+    "description": "Ultraportable with Intel Core Ultra 7, 120Hz OLED display, and ergonomic lift hinge.",
+    "specs": {
+      "cpu": "Intel Core Ultra 7 155H",
+      "gpu": "Intel Arc Graphics",
+      "ram": "32GB LPDDR5X",
+      "storage": "1TB PCIe 4.0 SSD",
+      "screen": "14\" 3K OLED 120Hz"
+    }
+  },
+  {
+    "id": 21,
+    "name": "HP Spectre x360 14 (2024)",
+    "brand": "HP",
+    "price": 1699.99,
+    "image": "assets/images/laptops/HP Spectre x360 14 (2024).png",
+    "category": "laptop",
+    "stock": 15,
+    "rating": 4.8,
+    "description": "Premium convertible with gem-cut design and 120Hz OLED touchscreen.",
+    "specs": {
+      "cpu": "Intel Core Ultra 7 155H",
+      "gpu": "Intel Arc Graphics",
+      "ram": "32GB LPDDR5x",
+      "storage": "2TB PCIe 4.0 SSD",
+      "screen": "14\" 2.8K OLED 120Hz"
+    }
+  },
+  {
+    "id": 22,
+    "name": "HP Omen Transcend 16",
+    "brand": "HP",
+    "price": 2499.99,
+    "image": "assets/images/laptops/HP Omen Transcend 16.png",
+    "category": "laptop",
+    "stock": 8,
+    "rating": 4.7,
+    "description": "Slim gaming powerhouse with Mini-LED display and per-key RGB lighting.",
+    "specs": {
+      "cpu": "Intel Core i9-14900HX",
+      "gpu": "NVIDIA RTX 4080",
+      "ram": "32GB DDR5",
+      "storage": "2TB PCIe 4.0 SSD",
+      "screen": "16\" 2.5K Mini-LED 240Hz"
+    }
+  },
+  {
+    "id": 23,
+    "name": "HP ZBook Firefly G10",
+    "brand": "HP",
+    "price": 1899.99,
+    "image": "assets/images/laptops/HP ZBook Firefly G10.png",
+    "category": "laptop",
+    "stock": 12,
+    "rating": 4.6,
+    "description": "Mobile workstation with ISV certification and MIL-STD durability.",
+    "specs": {
+      "cpu": "Intel Core i7-1370P",
+      "gpu": "NVIDIA RTX A1000",
+      "ram": "32GB DDR5",
+      "storage": "1TB PCIe 4.0 SSD",
+      "screen": "14\" FHD 100% sRGB"
+    }
+  },
+  {
+    "id": 24,
+    "name": "HP Envy x360 15.6",
+    "brand": "HP",
+    "price": 1299.99,
+    "image": "assets/images/laptops/HP Envy x360 15.6.png",
+    "category": "laptop",
+    "stock": 18,
+    "rating": 4.5,
+    "description": "Versatile 2-in-1 with numeric keypad and privacy camera shutter.",
+    "specs": {
+      "cpu": "AMD Ryzen 7 7840U",
+      "gpu": "AMD Radeon 780M",
+      "ram": "16GB LPDDR5",
+      "storage": "1TB PCIe 4.0 SSD",
+      "screen": "15.6\" 4K OLED Touch"
+    }
+  },
+  {
+    "id": 25,
+    "name": "HP Pavilion Plus 14",
+    "brand": "HP",
+    "price": 999.99,
+    "image": "assets/images/laptops/HP Pavilion Plus 14.png",
+    "category": "laptop",
+    "stock": 25,
+    "rating": 4.3,
+    "description": "Lightweight productivity laptop with 90% screen-to-body ratio.",
+    "specs": {
+      "cpu": "Intel Core i5-13500H",
+      "gpu": "Intel Iris Xe",
+      "ram": "16GB DDR5",
+      "storage": "512GB PCIe 4.0 SSD",
+      "screen": "14\" 2.8K 90Hz OLED"
+    }
+  },
+  {
+    "id": 26,
+    "name": "HP Victus 16.1",
+    "brand": "HP",
+    "price": 1199.99,
+    "image": "assets/images/laptops/HP Victus 16.1.png",
+    "category": "laptop",
+    "stock": 20,
+    "rating": 4.2,
+    "description": "Entry-level gaming laptop with OMEN Gaming Hub control.",
+    "specs": {
+      "cpu": "AMD Ryzen 7 7840HS",
+      "gpu": "NVIDIA RTX 4050",
+      "ram": "16GB DDR5",
+      "storage": "1TB PCIe 4.0 SSD",
+      "screen": "16.1\" FHD 144Hz"
+    }
+  },
+  {
+    "id": 27,
+    "name": "HP Dragonfly G4",
+    "brand": "HP",
+    "price": 2299.99,
+    "image": "assets/images/laptops/HP Dragonfly G4.png",
+    "category": "laptop",
+    "stock": 7,
+    "rating": 4.8,
+    "description": "Enterprise ultrabook with Tile tracking and 5G connectivity.",
+    "specs": {
+      "cpu": "Intel Core i7-1365U",
+      "gpu": "Intel Iris Xe",
+      "ram": "32GB LPDDR5",
+      "storage": "2TB PCIe 4.0 SSD",
+      "screen": "13.5\" 3K2K Sure View Reflect"
+    }
+  },
+  {
+    "id": 28,
+    "name": "HP EliteBook 840 G10",
+    "brand": "HP",
+    "price": 1599.99,
+    "image": "assets/images/laptops/HP EliteBook 840 G10.png",
+    "category": "laptop",
+    "stock": 14,
+    "rating": 4.6,
+    "description": "Business laptop with HP Wolf Security and 14-hour battery.",
+    "specs": {
+      "cpu": "Intel Core i7-1360P",
+      "gpu": "Intel Iris Xe",
+      "ram": "32GB DDR5",
+      "storage": "1TB PCIe 4.0 SSD",
+      "screen": "14\" FHD Low Blue Light"
+    }
+  },
+  {
+    "id": 29,
+    "name": "HP Omen 17",
+    "brand": "HP",
+    "price": 2199.99,
+    "image": "assets/images/laptops/HP Omen 17.png",
+    "category": "laptop",
+    "stock": 6,
+    "rating": 4.5,
+    "description": "Desktop replacement with mechanical keyboard and vapor chamber cooling.",
+    "specs": {
+      "cpu": "Intel Core i9-14900HX",
+      "gpu": "NVIDIA RTX 4070",
+      "ram": "32GB DDR5",
+      "storage": "2TB PCIe 4.0 SSD",
+      "screen": "17.3\" QHD 165Hz"
+    }
+  },
+  {
+    "id": 30,
+    "name": "HP Envy 17",
+    "brand": "HP",
+    "price": 1499.99,
+    "image": "assets/images/laptops/HP Envy 17.png",
+    "category": "laptop",
+    "stock": 10,
+    "rating": 4.4,
+    "description": "Content creation laptop with Bang & Olufsen audio and numeric keypad.",
+    "specs": {
+      "cpu": "Intel Core i7-13700H",
+      "gpu": "NVIDIA RTX 3050",
+      "ram": "16GB DDR5",
+      "storage": "1TB PCIe 4.0 SSD",
+      "screen": "17.3\" 4K IPS 120Hz"
+    }
+  },
+  {
+    "id": 31,
+    "name": "HP ZBook Studio G10",
+    "brand": "HP",
+    "price": 2999.99,
+    "image": "assets/images/laptops/HP ZBook Studio G10.png",
+    "category": "laptop",
+    "stock": 5,
+    "rating": 4.9,
+    "description": "Mobile workstation with DreamColor display and HP Z Turbo Drive.",
+    "specs": {
+      "cpu": "Intel Core i9-13900H",
+      "gpu": "NVIDIA RTX 5000 Ada",
+      "ram": "64GB DDR5",
+      "storage": "4TB PCIe 4.0 SSD",
+      "screen": "16\" 4K DreamColor 120Hz"
+    }
+  },
+  {
+    "id": 32,
+    "name": "HP Pavilion Gaming 15",
+    "brand": "HP",
+    "price": 899.99,
+    "image": "assets/images/laptops/HP Pavilion Gaming 15.png",
+    "category": "laptop",
+    "stock": 22,
+    "rating": 4.1,
+    "description": "Budget gaming laptop with dual fan cooling and backlit keyboard.",
+    "specs": {
+      "cpu": "AMD Ryzen 5 7640HS",
+      "gpu": "NVIDIA RTX 3050",
+      "ram": "16GB DDR5",
+      "storage": "512GB PCIe 3.0 SSD",
+      "screen": "15.6\" FHD 144Hz"
+    }
+  },
+  {
+    "id": 33,
+    "name": "HP Spectre Fold 17",
+    "brand": "HP",
+    "price": 4999.99,
+    "image": "assets/images/laptops/HP Spectre Fold 17.png",
+    "category": "laptop",
+    "stock": 3,
+    "rating": 4.7,
+    "description": "Foldable OLED convertible with wireless magnetic keyboard.",
+    "specs": {
+      "cpu": "Intel Core i7-1250U",
+      "gpu": "Intel Iris Xe",
+      "ram": "16GB LPDDR5",
+      "storage": "1TB PCIe 4.0 SSD",
+      "screen": "17\" 4K Foldable OLED"
+    }
+  },
+  {
+    "id": 34,
+    "name": "HP Elite Dragonfly Folio",
+    "brand": "HP",
+    "price": 2699.99,
+    "image": "assets/images/laptops/HP Elite Dragonfly Folio.png",
+    "category": "laptop",
+    "stock": 9,
+    "rating": 4.8,
+    "description": "Executive convertible with pull-forward design and haptic touchpad.",
+    "specs": {
+      "cpu": "Intel Core i7-1360P",
+      "gpu": "Intel Iris Xe",
+      "ram": "32GB LPDDR5",
+      "storage": "2TB PCIe 4.0 SSD",
+      "screen": "13.5\" 3K2K Sure View Touch"
+    }
+  },
+  {
+    "id": 35,
+    "name": "HP Victus 16 (2024)",
+    "brand": "HP",
+    "price": 1299.99,
+    "image": "assets/images/laptops/HP Victus 16 (2024).png",
+    "category": "laptop",
+    "stock": 16,
+    "rating": 4.3,
+    "description": "Gaming laptop with MUX Switch and upgraded cooling system.",
+    "specs": {
+      "cpu": "Intel Core i7-13700HX",
+      "gpu": "NVIDIA RTX 4060",
+      "ram": "16GB DDR5",
+      "storage": "1TB PCIe 4.0 SSD",
+      "screen": "16.1\" QHD 165Hz"
+    }
+  },
+  {
+    "id": 36,
+    "name": "HP ProBook 440 G10",
+    "brand": "HP",
+    "price": 1099.99,
+    "image": "assets/images/laptops/HP ProBook 440 G10.png",
+    "category": "laptop",
+    "stock": 17,
+    "rating": 4.4,
+    "description": "Business laptop with spill-resistant keyboard and TPM 2.0 security.",
+    "specs": {
+      "cpu": "Intel Core i5-1345U",
+      "gpu": "Intel Iris Xe",
+      "ram": "16GB DDR4",
+      "storage": "512GB PCIe NVMe SSD",
+      "screen": "14\" FHD Anti-Glare"
+    }
+  },
+  {
+    "id": 37,
+    "name": "HP Chromebook x360 14c",
+    "brand": "HP",
+    "price": 599.99,
+    "image": "assets/images/laptops/HP Chromebook x360 14c.png",
+    "category": "laptop",
+    "stock": 30,
+    "rating": 4.0,
+    "description": "Convertible Chromebook with Google Assistant and USI pen support.",
+    "specs": {
+      "cpu": "Intel Core i3-N305",
+      "gpu": "Intel UHD Graphics",
+      "ram": "8GB LPDDR5",
+      "storage": "128GB eMMC",
+      "screen": "14\" FHD Touch"
+    }
+  },
+  {
+    "id": 38,
+    "name": "HP ZBook Fury G10",
+    "brand": "HP",
+    "price": 3899.99,
+    "image": "assets/images/laptops/HP ZBook Fury G10.png",
+    "category": "laptop",
+    "stock": 4,
+    "rating": 4.9,
+    "description": "Mobile workstation with 8-core Xeon CPU and ECC memory support.",
+    "specs": {
+      "cpu": "Intel Xeon W-13955M",
+      "gpu": "NVIDIA RTX 5000 Ada",
+      "ram": "128GB ECC DDR5",
+      "storage": "8TB PCIe 4.0 SSD",
+      "screen": "17.3\" 4K DreamColor 120Hz"
+    }
+  },
+  {
+    "id": 39,
+    "name": "HP Pavilion Aero 13",
+    "brand": "HP",
+    "price": 899.99,
+    "image": "assets/images/laptops/HP Pavilion Aero 13.png",
+    "category": "laptop",
+    "stock": 21,
+    "rating": 4.3,
+    "description": "Lightest Pavilion ever with magnesium-aluminum chassis.",
+    "specs": {
+      "cpu": "AMD Ryzen 5 7535U",
+      "gpu": "AMD Radeon 660M",
+      "ram": "16GB LPDDR5",
+      "storage": "512GB PCIe 3.0 SSD",
+      "screen": "13.3\" WUXGA IPS"
+    }
+  },
+  {
+    "id": 40,
+    "name": "HP Elite Folio",
+    "brand": "HP",
+    "price": 1799.99,
+    "image": "assets/images/laptops/HP Elite Folio.png",
+    "category": "laptop",
+    "stock": 8,
+    "rating": 4.6,
+    "description": "Leather-clad convertible with ARM processor and cellular connectivity.",
+    "specs": {
+      "cpu": "Qualcomm Snapdragon 8cx Gen 3",
+      "gpu": "Adreno 690",
+      "ram": "16GB LPDDR4x",
+      "storage": "512GB NVMe SSD",
+      "screen": "13.5\" WUXGA Touch"
+    }
+  },
+  {
+    "id": 41,
+    "name": "Dell XPS 8960",
+    "brand": "Dell",
+    "price": 1899.99,
+    "image": "assets/images/PC/Dell XPS 8960.png",
+    "category": "PC",
+    "stock": 10,
+    "rating": 4.7,
+    "description": "Premium desktop with liquid cooling and tool-less access for easy upgrades.",
+    "specs": {
+      "cpu": "Intel Core i7-14700K",
+      "gpu": "NVIDIA RTX 4070 Ti",
+      "ram": "32GB DDR5",
+      "storage": "1TB SSD + 2TB HDD",
+      "screen": "N/A (Desktop)"
+    }
+  },
+  {
+    "id": 42,
+    "name": "Alienware Aurora R16",
+    "brand": "Dell",
+    "price": 2499.99,
+    "image": "assets/images/PC/Alienware Aurora R16.png",
+    "category": "PC",
+    "stock": 8,
+    "rating": 4.8,
+    "description": "Gaming desktop with Legend 3 design, AlienFX lighting, and Cryo-Tech cooling.",
+    "specs": {
+      "cpu": "Intel Core i9-14900KF",
+      "gpu": "NVIDIA RTX 4080",
+      "ram": "32GB DDR5",
+      "storage": "2TB NVMe SSD",
+      "screen": "N/A (Desktop)"
+    }
+  },
+  {
+    "id": 43,
+    "name": "Dell Precision 3660 Tower",
+    "brand": "Dell",
+    "price": 2199.99,
+    "image": "assets/images/PC/Dell Precision 3660 Tower.png",
+    "category": "PC",
+    "stock": 6,
+    "rating": 4.9,
+    "description": "Workstation with ISV certification and 92% efficient PSU for heavy workloads.",
+    "specs": {
+      "cpu": "Intel Xeon W5-2455X",
+      "gpu": "NVIDIA RTX A4500",
+      "ram": "64GB ECC DDR5",
+      "storage": "2TB SSD + 4TB HDD",
+      "screen": "N/A (Desktop)"
+    }
+  },
+  {
+    "id": 44,
+    "name": "Dell OptiPlex 7010",
+    "brand": "Dell",
+    "price": 899.99,
+    "image": "assets/images/PC/Dell OptiPlex 7010.png",
+    "category": "PC",
+    "stock": 15,
+    "rating": 4.3,
+    "description": "Compact business desktop with Dell Optimizer and tamper-resistant chassis.",
+    "specs": {
+      "cpu": "Intel Core i5-13500",
+      "gpu": "Intel UHD Graphics 770",
+      "ram": "16GB DDR5",
+      "storage": "512GB NVMe SSD",
+      "screen": "N/A (Desktop)"
+    }
+  },
+  {
+    "id": 45,
+    "name": "Dell Inspiron 27 All-in-One",
+    "brand": "Dell",
+    "price": 1299.99,
+    "image": "assets/images/PC/Dell Inspiron 27 All-in-One.png",
+    "category": "PC",
+    "stock": 12,
+    "rating": 4.5,
+    "description": "Space-saving all-in-one with FHD touchscreen and pop-up webcam.",
+    "specs": {
+      "cpu": "Intel Core i7-1360P",
+      "gpu": "Intel Iris Xe",
+      "ram": "16GB DDR5",
+      "storage": "1TB SSD",
+      "screen": "27\" FHD Touch"
+    }
+  },
+  {
+    "id": 46,
+    "name": "Alienware Aurora R15",
+    "brand": "Dell",
+    "price": 3299.99,
+    "image": "assets/images/PC/Alienware Aurora R15.png",
+    "category": "PC",
+    "stock": 4,
+    "rating": 4.9,
+    "description": "Flagship gaming desktop with liquid-cooled CPU and 1350W PSU.",
+    "specs": {
+      "cpu": "AMD Ryzen 9 7950X3D",
+      "gpu": "NVIDIA RTX 4090",
+      "ram": "64GB DDR5",
+      "storage": "4TB NVMe SSD",
+      "screen": "N/A (Desktop)"
+    }
+  },
+  {
+    "id": 47,
+    "name": "Dell Vostro 3910",
+    "brand": "Dell",
+    "price": 799.99,
+    "image": "assets/images/PC/Dell Vostro 3910.png",
+    "category": "PC",
+    "stock": 18,
+    "rating": 4.2,
+    "description": "Small business desktop with hardware-enhanced security features.",
+    "specs": {
+      "cpu": "Intel Core i5-13400F",
+      "gpu": "NVIDIA GTX 1650",
+      "ram": "16GB DDR4",
+      "storage": "512GB SSD",
+      "screen": "N/A (Desktop)"
+    }
+  },
+  {
+    "id": 48,
+    "name": "Dell Precision 3260 Compact",
+    "brand": "Dell",
+    "price": 1599.99,
+    "image": "assets/images/PC/Dell Precision 3260 Compact.png",
+    "category": "PC",
+    "stock": 9,
+    "rating": 4.6,
+    "description": "Mini workstation with ECC memory and 200W PSU in 2.5L chassis.",
+    "specs": {
+      "cpu": "Intel Core i7-13700",
+      "gpu": "NVIDIA RTX A2000",
+      "ram": "32GB ECC DDR5",
+      "storage": "1TB NVMe SSD",
+      "screen": "N/A (Desktop)"
+    }
+  },
+  {
+    "id": 49,
+    "name": "Dell XPS 8950 Special Edition",
+    "brand": "Dell",
+    "price": 2799.99,
+    "image": "assets/images/PC/Dell XPS 8950 Special Edition.png",
+    "category": "PC",
+    "stock": 5,
+    "rating": 4.8,
+    "description": "Limited edition with white platinum chassis and custom lighting.",
+    "specs": {
+      "cpu": "Intel Core i9-13900K",
+      "gpu": "NVIDIA RTX 4080",
+      "ram": "64GB DDR5",
+      "storage": "4TB NVMe SSD",
+      "screen": "N/A (Desktop)"
+    }
+  },
+  {
+    "id": 50,
+    "name": "Dell OptiPlex All-in-One 7410",
+    "brand": "Dell",
+    "price": 1499.99,
+    "image": "assets/images/PC/Dell OptiPlex All-in-One 7410.png",
+    "category": "PC",
+    "stock": 7,
+    "rating": 4.4,
+    "description": "Business all-in-one with ComfortView Plus and 5MP camera.",
+    "specs": {
+      "cpu": "Intel Core i7-13700T",
+      "gpu": "Intel Iris Xe",
+      "ram": "32GB DDR5",
+      "storage": "1TB NVMe SSD",
+      "screen": "24\" FHD Touch"
+    }
+  },
+  {
+    "id": 51,
+    "name": "Dell OptiPlex 7400 All-in-One",
+    "brand": "Dell",
+    "price": 1699.99,
+    "image": "assets/images/PC/Dell OptiPlex 7400 All-in-One.png",
+    "category": "PC",
+    "stock": 9,
+    "rating": 4.5,
+    "description": "Business all-in-one with 5MP pop-up camera, ComfortView Plus, and smart audio.",
+    "specs": {
+      "cpu": "Intel Core i7-13700T",
+      "gpu": "Intel Iris Xe Graphics",
+      "ram": "32GB DDR5",
+      "storage": "1TB NVMe SSD + 1TB HDD",
+      "screen": "24\" FHD Touch"
+    }
+  },
+  {
+    "id": 52,
+    "name": "Dell Precision 7865 Tower",
+    "brand": "Dell",
+    "price": 5899.99,
+    "image": "assets/images/PC/Dell Precision 7865 Tower.png",
+    "category": "PC",
+    "stock": 3,
+    "rating": 5.0,
+    "description": "Extreme workstation with 64-core CPU and 1600W redundant PSU.",
+    "specs": {
+      "cpu": "AMD Ryzen Threadripper PRO 7995WX",
+      "gpu": "NVIDIA RTX 6000 Ada",
+      "ram": "256GB ECC DDR5",
+      "storage": "24TB SSD RAID",
+      "screen": "N/A (Desktop)"
+    }
+  },
+  {
+    "id": 53,
+    "name": "Dell Inspiron Small Desktop",
+    "brand": "Dell",
+    "price": 599.99,
+    "image": "assets/images/PC/Dell Inspiron Small Desktop.png",
+    "category": "PC",
+    "stock": 22,
+    "rating": 4.1,
+    "description": "Compact desktop with Wi-Fi 6 and multiple mounting options.",
+    "specs": {
+      "cpu": "Intel Core i3-13100F",
+      "gpu": "Intel UHD Graphics",
+      "ram": "8GB DDR4",
+      "storage": "256GB SSD",
+      "screen": "N/A (Desktop)"
+    }
+  },
+  {
+    "id": 54,
+    "name": "Dell Vostro 5400 Tower",
+    "brand": "Dell",
+    "price": 999.99,
+    "image": "assets/images/PC/Dell Vostro 5400 Tower.png",
+    "category": "PC",
+    "stock": 14,
+    "rating": 4.3,
+    "description": "Expandable tower with tool-less chassis and Dell Premium Support.",
+    "specs": {
+      "cpu": "Intel Core i5-13400",
+      "gpu": "NVIDIA RTX 3050",
+      "ram": "16GB DDR5",
+      "storage": "1TB SSD",
+      "screen": "N/A (Desktop)"
+    }
+  },
+  {
+    "id": 55,
+    "name": "Dell OptiPlex 3000 Thin Client",
+    "brand": "Dell",
+    "price": 399.99,
+    "image": "assets/images/PC/Dell OptiPlex 3000 Thin Client.png",
+    "category": "PC",
+    "stock": 30,
+    "rating": 3.9,
+    "description": "Secure thin client with TPM 2.0 and centralized management.",
+    "specs": {
+      "cpu": "AMD Ryzen Embedded R1505G",
+      "gpu": "AMD Radeon Graphics",
+      "ram": "8GB DDR4",
+      "storage": "128GB eMMC",
+      "screen": "N/A (Desktop)"
+    }
+  },
+  {
+    "id": 56,
+    "name": "Dell Precision 3460 SFF",
+    "brand": "Dell",
+    "price": 1399.99,
+    "image": "assets/images/PC/Dell Precision 3460 SFF.png",
+    "category": "PC",
+    "stock": 11,
+    "rating": 4.5,
+    "description": "Small form factor workstation with 4 display support.",
+    "specs": {
+      "cpu": "Intel Core i7-13700",
+      "gpu": "NVIDIA RTX A2000",
+      "ram": "32GB DDR5",
+      "storage": "1TB NVMe SSD",
+      "screen": "N/A (Desktop)"
+    }
+  },
+  {
+    "id": 57,
+    "name": "Dell XPS Tower Special Edition",
+    "brand": "Dell",
+    "price": 3499.99,
+    "image": "assets/images/PC/Dell XPS Tower Special Edition.png",
+    "category": "PC",
+    "stock": 4,
+    "rating": 4.8,
+    "description": "Artisan edition with handcrafted wood panels and custom cooling.",
+    "specs": {
+      "cpu": "Intel Core i9-14900K",
+      "gpu": "NVIDIA RTX 4090",
+      "ram": "64GB DDR5",
+      "storage": "8TB NVMe SSD RAID",
+      "screen": "N/A (Desktop)"
+    }
+  },
+  {
+    "id": 58,
+    "name": "Dell Alienware Area-51",
+    "brand": "Dell",
+    "price": 4199.99,
+    "image": "assets/images/PC/Dell Alienware Area-51.png",
+    "category": "PC",
+    "stock": 3,
+    "rating": 4.9,
+    "description": "Triangular chassis design with dual power supplies and custom loop liquid cooling.",
+    "specs": {
+      "cpu": "AMD Ryzen 9 7950X",
+      "gpu": "NVIDIA RTX 4090",
+      "ram": "128GB DDR5",
+      "storage": "8TB NVMe SSD",
+      "screen": "N/A (Desktop)"
+    }
+  },
+  {
+    "id": 59,
+    "name": "Dell Precision 5820 Tower",
+    "brand": "Dell",
+    "price": 2499.99,
+    "image": "assets/images/PC/Dell Precision 5820 Tower.png",
+    "category": "PC",
+    "stock": 7,
+    "rating": 4.7,
+    "description": "VR-ready workstation with Thunderbolt 4 and 12 DIMM slots.",
+    "specs": {
+      "cpu": "Intel Xeon W-1370P",
+      "gpu": "NVIDIA RTX A4000",
+      "ram": "64GB ECC DDR4",
+      "storage": "2TB SSD + 4TB HDD",
+      "screen": "N/A (Desktop)"
+    }
+  },
+  {
+    "id": 60,
+    "name": "Dell Inspiron Gaming Desktop",
+    "brand": "Dell",
+    "price": 1099.99,
+    "image": "assets/images/PC/Dell Inspiron Gaming Desktop.png",
+    "category": "PC",
+    "stock": 16,
+    "rating": 4.2,
+    "description": "Entry-level gaming desktop with Alienware-inspired lighting.",
+    "specs": {
+      "cpu": "AMD Ryzen 5 7600",
+      "gpu": "NVIDIA RTX 4060",
+      "ram": "16GB DDR5",
+      "storage": "1TB NVMe SSD",
+      "screen": "N/A (Desktop)"
+    }
+  }
+]
