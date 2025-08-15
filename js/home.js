@@ -1,7 +1,7 @@
 let productsData = [];
 
 const myRequest = new XMLHttpRequest();
-myRequest.open("GET", "./assets/products.json");
+myRequest.open("GET", "../assets/products.json");
 myRequest.send();
 
 myRequest.onreadystatechange = function () {
