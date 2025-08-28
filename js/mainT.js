@@ -12,6 +12,7 @@ let el;
 let ob = document.querySelectorAll("button");
 console.log(ob);
 
+
 ob.forEach(function (e) {
   e.onclick = function (el) {
     let t = JSON.parse(
