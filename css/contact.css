@@ -1,0 +1,287 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+.nav {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+h1 {
+  font-size: 18px;
+}
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.container {
+  margin-left: auto;
+  margin-right: auto;
+}
+.container .nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 1170px;
+  height: 38px;
+  margin-top: 20px;
+  margin-bottom: 16px;
+}
+.nav .logo-links {
+  display: flex;
+  align-items: center;
+  text-align: center;
+}
+.nav .links ul {
+  list-style: none;
+  display: flex;
+  margin-left: 40px;
+}
+
+.nav .links ul a {
+  margin: 0 40px;
+  position: relative;
+  transition: 0.5s ease;
+  text-decoration: none;
+  color: black;
+}
+.nav .links ul a::after {
+  content: "";
+  display: block;
+  width: 0;
+  height: 3px;
+  position: absolute;
+  top: 20px;
+  background-color: #db4444ed;
+}
+.nav .links ul a:hover {
+  color: #db4444;
+}
+.nav .links ul a:hover::after {
+  width: 100%;
+  transition: 0.5s ease;
+}
+.nav .layout {
+  display: flex;
+  align-items: center;
+  position: relative;
+}
+.nav .layout .icon {
+  margin-left: 24px;
+  width: 128px;
+  height: 32px;
+}
+.nav .layout .icon img {
+  width: 32px;
+  height: 32px;
+}
+.nav .layout .icon:not(:nth-child(3)) i {
+  margin-right: 16px;
+}
+.nav .layout input[type="search"] {
+  font-size: 14px;
+  width: 230px;
+  height: 30px;
+  padding: 5px;
+  border: 1px solid white;
+  background-color: rgb(243, 237, 237);
+  outline: 0;
+}
+.nav .layout input[type="search"]:focus {
+  border: #db4444 solid 2px;
+}
+.nav .layout .input-search i {
+  position: absolute;
+  left: 195px;
+  top: 7px;
+}
+section {
+  margin-top: 50px;
+  position: relative;
+  display: flex;
+  height: 560px;
+  margin-bottom: 88px;
+}
+section .container {
+  display: grid;
+  grid-template-columns: 1000px 400px;
+  grid-template-rows: 470px;
+  gap: 30px;
+}
+.section {
+  
+  width: 1335px;
+}
+section .container .contactinfo {
+  background-color: white;
+ margin-top: -155px;
+ border-radius: 15px;
+  padding: 20px 40px;
+  height: 550px;
+  background-color: #f5f7ff;
+}
+
+section .container .contactinfo .info {
+  position: relative;
+  margin: 20px 0;
+}
+
+section .container .contactinfo .info li {
+  list-style: none;
+ 
+  width: 350px;
+  cursor: pointer;
+}
+section .container .contactForm .formBox form {
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  padding: 0 30px 0 30px;
+  height: 550px;
+}
+section .container .contactForm .formBox form p {
+  color: #db4444;
+  background-color: #c4c1c1ed;
+  padding: 8px 0 5px 8px;
+  font-weight: 600;
+  margin-bottom: 0;
+  display: none;
+}
+section .container .contactForm .formBox form .inputBox {
+  margin: 0 0 52.5px 0;
+}
+section .container .contactForm .formBox form .inputBox.w50 {
+  width: 47%;
+  color: black;
+}
+
+section .container .contactForm .formBox form .inputBox.w100 {
+  width: 100%;
+}
+section .container .contactForm .formBox form .inputBox input,
+section .container .contactForm .formBox form .inputBox textarea {
+  width: 432px;
+  padding: 5px 0;
+  resize: none;
+  font-size: 18px;
+  font-weight: 300;
+  color: black;
+  border: none;
+  outline: none;
+  border-radius: 15px;
+  border: 1px solid #a2a6b0;
+}
+.Shipping {
+  margin-top: 50px;
+  font-weight: 600;
+  width: 514px;
+  font-size: 16px;
+  font-weight: 300;
+}
+
+section .container .contactForm .formBox form .inputBox textarea {
+  min-height: 200px;
+}
+section .container .contactForm .formBox form .inputBox input:focus ~ span,
+section .container .contactForm .formBox form .inputBox textarea:focus ~ span {
+  transform: translateY(-20px);
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 1px;
+  color: #db4444;
+}
+section .container .contactForm .formBox form .inputBox input[type="submit"] {
+  color: #ffffff;
+  background-color: #0156ff;
+  border-radius: 50px;
+  width: 210px;
+  border: 0;
+  margin-top: 50px;
+  cursor: pointer;
+  height: 50px;
+}
+
+.fa-location-dot,
+.fa-phone,.fa-clock ,.fa-envelope{
+  margin-right: 25px;
+  font-size: 25px;
+}
+
+.footer {
+  background-color: #000000;
+  height: 330px;
+}
+.footer * {
+  color: white;
+}
+.footer *:hover:not(input[type="email"]) {
+  color: #db4444;
+}
+ul {
+  list-style: none;
+  padding-left: 0;
+}
+.footer .sec3 {
+  display: flex;
+  justify-content: center;
+  padding-top: 30px;
+}
+.sec3 .first-list,
+.sec3 .second-list,
+.sec3 .third-list,
+.sec3 .fourth-list {
+  margin-right: 70px;
+}
+.sec3 .first-list input[type="email"] {
+  width: 185px;
+  border: 1.5px solid white;
+  height: 25px;
+  background-color: #000000;
+}
+.sec3 .first-list p {
+  width: 206px;
+  height: 20px;
+}
+.sec3 .first-list ul li,
+.sec3 .second-list ul li,
+.sec3 .third-list ul li,
+.sec3 .fourth-list ul li {
+  margin-bottom: 10px;
+}
+.sec3 .third-list ul li {
+  cursor: pointer;
+}
+.sec3 .third-list ul a {
+  text-decoration: none;
+}
+.sec3 .third-list {
+  width: 250px;
+  height: 236;
+}
+.sec3 .fifth-list .link {
+  display: grid;
+  grid-template-columns: 86px 110px;
+  grid-template-rows: repeat(2, 1fr);
+  height: 84px;
+  margin-bottom: 24px;
+  width: 250px;
+}
+.sec3 .fifth-list .icon {
+  display: flex;
+}
+.sec3 .fifth-list .icon a:not(:last-child) {
+  margin-right: 24px;
+  color: white;
+  text-decoration: none;
+}
+.sec3 .fourth-list {
+  width: 195px;
+  height: 196px;
+}
+.sec3 .fifty-list p {
+  font-size: 13px;
+}

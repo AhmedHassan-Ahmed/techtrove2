@@ -1,0 +1,150 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: #f4f7fa;
+  color: #333;
+  line-height: 1.6;
+}
+
+.container {
+  max-width: 1400px;
+  margin: 40px auto;
+  padding: 20px;
+}
+
+.title {
+  text-align: center;
+  font-size: 2.5em;
+  margin-bottom: 40px;
+  color: #0056b3;
+  font-weight: 600;
+}
+
+.laptop-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 24px;
+  justify-content: center;
+}
+
+.card {
+  background: white;
+  border-radius: 16px;
+  overflow: hidden;
+  width: 350px;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  display: flex;
+  flex-direction: column;
+}
+
+.card:hover {
+  transform: translateY(-10px);
+  box-shadow: 0 20px 30px rgba(0, 0, 0, 0.15);
+}
+
+.card img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  border-bottom: 1px solid #eee;
+}
+
+.card-content {
+  padding: 20px;
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+.card-content h2 {
+  font-size: 1.4em;
+  margin-bottom: 10px;
+  color: #0056b3;
+}
+
+.description {
+  font-size: 0.95em;
+  color: #555;
+  margin-bottom: 15px;
+  font-style: italic;
+}
+
+.specs {
+  list-style: none;
+  margin: 12px 0;
+  font-size: 0.9em;
+  color: #444;
+}
+
+.specs li {
+  margin-bottom: 6px;
+  word-wrap: break-word;
+}
+
+.rating-price {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 15px 0;
+  font-weight: 600;
+}
+
+.rating {
+  color: #e74c3c;
+  font-size: 1.1em;
+}
+
+.rating i {
+  color: #f8ce0e;
+  margin-right: 4px;
+}
+
+.price {
+  color: #27ae60;
+  font-size: 1.2em;
+}
+
+.stock {
+  margin-top: auto;
+  font-size: 0.9em;
+  color: #27ae60;
+  font-weight: 500;
+  text-align: right;
+}
+
+/* Responsive Design */
+@media (max-width: 1200px) {
+  .card {
+    width: 300px;
+  }
+}
+
+@media (max-width: 768px) {
+  .laptop-grid {
+    flex-direction: column;
+    align-items: center;
+  }
+  .card {
+    width: 100%;
+    max-width: 400px;
+  }
+  .title {
+    font-size: 2em;
+  }
+}
+
+@media (max-width: 480px) {
+  .container {
+    padding: 10px;
+  }
+  .card {
+    width: 100%;
+    margin: 0;
+  }
+}

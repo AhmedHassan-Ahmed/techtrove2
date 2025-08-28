@@ -1,0 +1,140 @@
+:root {
+  --main-color: #effbff;
+  --Secondary-color: #2f73f2;
+}
+
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+.container {
+  display: flex;
+  justify-content: center;
+}
+.section {
+  margin: 50px;
+  width: 1398px;
+
+  display: grid;
+  justify-content: start;
+}
+div span {
+  margin-left: 5px;
+}
+.fa-angle-right {
+  font-size: 12px;
+  color: #0156ff;
+}
+div a {
+  text-decoration: none;
+  color: inherit;
+  font-family: "Poppins", sans-serif;
+}
+
+.about {
+  font-size: 32px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+}
+
+.blackArea img {
+  height: 70%;
+  margin-right: 20px;
+}
+.blackArea {
+  background-color: #000000;
+  height: 681px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 150px;
+}
+.inBlack {
+  color: #ffffff;
+  margin-left: 20px;
+  height: 382px;
+  display: grid;
+  place-items: center;
+  width: 565px;
+}
+/* .inBlack span img:nth-child(2) {
+  position: absolute;
+      margin-left: -4.5px;
+  
+} */
+.inBlack span {
+  color: white;
+  font-size: 44px;
+
+  display: flex;
+}
+.inBlack div div {
+  margin-top: 20px;
+  font-size: 18px;
+  font-weight: 200;
+  line-height: 1.3;
+}
+.inWhite {
+  height: 382px;
+  display: grid;
+  place-items: flex-start;
+  width: 565px;
+}
+
+.inWhite {
+  color: black;
+  margin-left: -32px;
+}
+.inWhite span {
+  color: black;
+  font-size: 44px;
+  display: flex;
+  margin-top: 40px;
+  font-weight: 600;
+}
+.inWhite span img,
+.inBlack span img {
+  height: 44px;
+}
+.inBlack span img:nth-child(2) {
+  position: absolute;
+  margin-left: 10px;
+  height: 20px;
+  margin-top: 14px;
+}
+.inWhite span img:nth-child(2) {
+  position: absolute;
+  height: 27px;
+  margin-top: 8px;
+  margin-left: 7px;
+}
+
+.inWhite div div {
+  margin-top: -50px;
+  font-size: 18px;
+  line-height: 1.4;
+  font-weight: 300;
+}
+
+.WhiteArea {
+  background-color: white;
+  height: 681px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 70px;
+}
+.WhiteArea img {
+  height: 73%;
+  margin-right: 20px;
+}
+
+.Highest {
+  height: 150px;
+}
+
+.Now {
+  height: 20px;
+}

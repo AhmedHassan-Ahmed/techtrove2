@@ -1,0 +1,205 @@
+:root {
+  --main-color: #effbff;
+  --Secondary-color: #2f73f2;
+}
+
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+
+
+.container {
+  display: flex;
+  justify-content: center;
+}
+.section {
+  margin: 50px;
+  width: 1398px;
+
+  display: grid;
+  justify-content: start;
+}
+div span {
+  margin-left: 5px;
+}
+.fa-angle-right {
+  font-size: 12px;
+  color: #0156ff;
+}
+div a {
+  text-decoration: none;
+  color: inherit;
+  font-family: "Poppins", sans-serif;
+}
+
+.about {
+  font-size: 32px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+}
+
+.flexCon {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(560px, 1fr));
+  max-width: calc(2 * 560px + 50px); 
+  width: 100%;
+  margin: 0 auto;
+  gap: 50px;
+  justify-items: center;
+  justify-content: center;
+}
+.flexCon > div {
+  width: 564px;
+  background-color: #f5f7ff;
+  height: 450px;
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+  padding: 40px;
+}
+.flexCon > div div label {
+  font-weight: 600;
+  font-size: 15px;
+}
+.flexCon > div div input {
+  margin-top: 10px;
+  border: #a2a6b0 solid 1px;
+  border-radius: 4px;
+  outline: 0;
+  width: 449px;
+  height: 50px;
+}
+.flexCon > div div button {
+  width: 151px;
+  height: 50px;
+  background-color: #0156ff;
+  border: 0;
+  border-radius: 50px;
+  color: #ffffff;
+  cursor: pointer;
+  font-weight: 600;
+}
+.flexCon > div div span {
+  color: #0156ff;
+}
+
+.re {
+  font-weight: 600;
+  font-size: 18px;
+}
+
+.btn {
+  display: flex;
+  justify-content: flex-start;
+  gap: 90px;
+  align-items: center;
+}
+
+.flexCon ul {
+  margin-top: -5px;
+}
+.flexCon div button {
+  width: 208px;
+  height: 50px;
+  background-color: #0156ff;
+  border: 0;
+  border-radius: 50px;
+  color: #ffffff;
+  cursor: pointer;
+  font-weight: 600;
+}
+
+.grey {
+  background-color: #f5f7ff;
+  /* width: 1920px; */
+  margin-top: 90px;
+  display: flex;
+  justify-content: center;
+  height: 273px;
+  align-items: center;
+}
+.grey div {
+  background-color: #f5f7ff;
+
+  height: 166px;
+}
+
+.flex1 {
+  width: 1000px;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  justify-items: center;
+
+  align-items: center;
+  position: relative;
+  gap: 80px;
+}
+
+.flex1 img:not(.img2) {
+  width: 20px;
+  width: 65px;
+  height: 65px;
+}
+.flex1 .img2 {
+  position: relative;
+  width: 24px;
+
+  top: -43px;
+}
+
+.flex1 div:not(.flex1 span) {
+  width: 264px;
+  display: flex;
+  align-content: center;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-size: 14px;
+  color: rgb(0 0 0 / 70%);
+  text-align: center;
+}
+.flex1 span {
+  font-size: 18px;
+  font-weight: bold;
+  margin-top: 10px;
+  color: #000000;
+
+  margin-bottom: 10px;
+}
+
+.sign {
+  display: none;
+}
+
+.new {
+  font-weight: 600;
+}
+
+label.Password2 {
+  margin-left: 130px;
+}
+.Password2 {
+  width: 200px !important;
+}
+
+.target {
+  margin-right: 20px;
+  width: 200px !important;
+}
+
+
+
+
+
+@media (max-width: 1512px) {
+  .grey{
+    height: 800px;
+  }
+  .flex1 {
+    margin-top: -400px;
+  }
+}

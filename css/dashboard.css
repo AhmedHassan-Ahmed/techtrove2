@@ -1,0 +1,50 @@
+.flex{
+    display: flex;
+    justify-content: center;
+    gap: 80px;
+}
+.flex div.details{
+   width: 988px;
+}
+.flex .dash{
+   width: 326px;
+   background-color: #F5F7FF;
+   height: 435px;
+   
+}
+.flex .dash div{
+  margin: 20px;
+
+}
+.flex .dash div:nth-child(1){
+  font-size: 20px;
+  font-weight: 500;
+
+}
+
+
+.half{
+    display: flex;
+    gap: 200px;
+}
+.half div{
+    margin: 20px 0;
+}
+
+.font{
+    font-weight: 300;
+    color: #666666;
+    width: 200px;
+}
+
+.acc{
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.half div:not(.font){
+    font-size: 16px;
+    font-weight: 500;
+}
+
+@me
